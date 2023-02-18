@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "category": "tshirt",
+        "headline": "Band Shirt",
+        "description": "T-Shirt mit Frostschock Bandlogo auf der Brust",
+        "price": "20",
+        "picture": "/img/merch/jeans3.jpeg",
+        "size": "S"
+    },
+    {
+        "id": 2,
+        "category": "tshirt",
+        "headline": "Band Shirt",
+        "description": "T-Shirt mit Frostschock Bandlogo auf der Brust",
+        "price": "10",
+        "picture": "/img/merch/jeans3.jpeg",
+        "size": "M"
+    }
+]
